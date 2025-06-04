@@ -23,7 +23,7 @@
 
 #### 🌱 Currently Working On
 - An Excel-based analytics web app with MERN + custom UI  
-- Learning express.js and deploying Mern-Stack projects on the github
+- Learning express.js and deploying Mern-Stack projects on the cloud
 
 ---
 
