@@ -31,6 +31,7 @@
 - 🌐 [Portfolio] )
 - 💼 [LinkedIn](https://www.linkedin.com/in/subha-p-871113288/)
 - 🐦 [Twitter](https://x.com/SubhaP23)
+- 🐦 [instagram](https://www.instagram.com/subhapandiyarajan?igsh=bDdncTlqbXpjZHMy)
 
 ---
 
