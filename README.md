@@ -23,7 +23,7 @@
 
 #### 🌱 Currently Working On
 - An Google Gemini App with React
-- Learning mysql
+- Learning Bootstrap
 
 ---
 
