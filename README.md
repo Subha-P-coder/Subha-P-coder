@@ -7,7 +7,7 @@
 ---
 
 #### 🛠️ Tech & Tools I Use
-- **Frontend:** React, HTML5, CSS, JavaScript, Angular js
+- **Frontend:** React, HTML5, CSS, JavaScript, Angular js, Tailwind, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs
 - **Design:** Figma
 - **Other:** Git, GitHub, Postman, VS Code
