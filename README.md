@@ -38,6 +38,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subha-P-coder&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-P-coder&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Subha-P-coder&theme=tokyonight&no-frame=true&row=1)
+
+---
+
 #### 📫 Let’s Connect!
 - 🌐 [Portfolio] )
 - 💼 [LinkedIn](https://www.linkedin.com/in/subha-p-871113288/)
