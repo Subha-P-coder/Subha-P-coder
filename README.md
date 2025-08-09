@@ -1,62 +1,72 @@
-### 👋 Hey there! I'm Subha — a creative technologits who codes and designs ✨
+<!-- Header Banner -->
+<img src="https://i.ibb.co/jHc1fR7/github-banner.png" alt="GitHub Banner" width="100%"/>
 
-🔧 I'm a *MERN Stack Developer* by logic,  
-🎨 A *UI/UX Designer* by heart,  
-🚀 And a lifelong learner by nature.
+<h1 align="center">Hey 👋, I'm <span style="color:#4FC3F7">Subha Pandiyarajan</span></h1>
+<h3 align="center">💻 MERN Stack Developer • 🎨 UI/UX Enthusiast • 🚀 Lifelong Learner</h3>
 
----
-
-#### 🛠 Tech & Tools I Use
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;JavaScript+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 ---
 
-#### 💡 What I Love Building
-- ⚙ Mern-stack web apps that actually solve problems  
-- 🎯 Interfaces that users love and remember  
-- 📊 Dashboards, analytics, and responsive UI components
+## 🚀 About Me
+🌟 Passionate about crafting **scalable apps** and **beautiful designs**  
+📍 Based in **Dindigul, Tamil Nadu**  
+🔭 Currently working on **MERN Projects**  
+💡 Exploring **API integrations, AI tools, and data visualization**  
 
 ---
 
-#### 🌱 Currently Working On
-- CRUD in JS
-- Learning Type Script
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,figma,vscode,postman&perline=6" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subha-P-coder&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-P-coder&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Subha-P-coder&theme=tokyonight&no-frame=true&row=1)
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Google Gemini App** | Integrates Gemini AI API for smart chats. | React, Gemini API | [🔗 View](#) |
+| **MERN Auth System** | Secure auth with JWT & cookies. | MERN Stack | [🔗 View](#) |
+| **Excel Analytical Platform** | Upload & analyze Excel files online. | React, Node.js | [🔗 View](#) |
 
 ---
 
-#### 📫 Let’s Connect!
-- 🌐 [Portfolio] )
-- 💼 [LinkedIn](https://www.linkedin.com/in/subha-p-871113288/)
-- 🐦 [Twitter](https://x.com/SubhaP23)
-- 🐦 [instagram](https://www.instagram.com/subhapandiyarajan?igsh=bDdncTlqbXpjZHMy)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subha-P-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subha-P-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-P-coder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subha-P-coder&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>💬 "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
+</p>
