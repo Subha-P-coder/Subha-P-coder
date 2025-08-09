@@ -1,72 +1,38 @@
-<!-- Header Banner -->
-<img src="https://i.ibb.co/jHc1fR7/github-banner.png" alt="GitHub Banner" width="100%"/>
+### 👋 Hey there! I'm Subha — a creative technologits who codes and designs ✨
 
-<h1 align="center">Hey 👋, I'm <span style="color:#4FC3F7">Subha Pandiyarajan</span></h1>
-<h3 align="center">💻 MERN Stack Developer • 🎨 UI/UX Enthusiast • 🚀 Lifelong Learner</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;JavaScript+Lover;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+🔧 I'm a *MERN Stack Developer* by logic,  
+🎨 A *UI/UX Designer* by heart,  
+🚀 And a lifelong learner by nature.
 
 ---
 
-## 🚀 About Me
-🌟 Passionate about crafting **scalable apps** and **beautiful designs**  
-📍 Based in **Dindigul, Tamil Nadu**  
-🔭 Currently working on **MERN Projects**  
-💡 Exploring **API integrations, AI tools, and data visualization**  
+#### 🛠 Tech & Tools I Use
+- *Frontend:* React, HTML5, CSS, JavaScript, Angular js, Tailwind, Bootstrap
+- *Backend:* Node.js, Express.js, MongoDB, REST APIs
+- *Design:* Figma
+- *Other:* Git, GitHub, Postman, VS Code, Thunder Client
 
 ---
 
-## 🛠 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,figma,vscode,postman&perline=6" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Google Gemini App** | Integrates Gemini AI API for smart chats. | React, Gemini API | [🔗 View](#) |
-| **MERN Auth System** | Secure auth with JWT & cookies. | MERN Stack | [🔗 View](#) |
-| **Excel Analytical Platform** | Upload & analyze Excel files online. | React, Node.js | [🔗 View](#) |
+#### 💡 What I Love Building
+- ⚙ Mern-stack web apps that actually solve problems  
+- 🎯 Interfaces that users love and remember  
+- 📊 Dashboards, analytics, and responsive UI components
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subha-P-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subha-P-coder&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-P-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+#### 🌱 Currently Working On
+- CRUD in js
+- Learning Typescript
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subha-P-coder&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+#### 📫 Let’s Connect!
+- 🌐 [Portfolio] )
+- 💼 [LinkedIn](https://www.linkedin.com/in/subha-p-871113288/)
+- 🐦 [Twitter](https://x.com/SubhaP23)
+- 🐦 [instagram](https://www.instagram.com/subhapandiyarajan?igsh=bDdncTlqbXpjZHMy)
 
 ---
 
-<p align="center">
-  <i>💬 "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
-</p>
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
