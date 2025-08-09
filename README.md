@@ -6,7 +6,7 @@
 ### ✨ About Me
 💡 **Creative Technologist** blending logic & design.  
 🌱 Currently sharpening my **JavaScript** CRUD skills & learning **TypeScript**.  
-⚡ Love building *functional*, *beautiful*, and *impactful* digital products.
+⚡ Love building *functional*, *beautiful*, and *impactful* Websites.
 
 ---
 
