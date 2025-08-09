@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm Subha</h1>
-<h3 align="center">💻 MERN Stack Developer | 🎨 UI/UX Designer | 🚀 Tech Explorer</h3>
+<h1>👋 Hey, I'm Subha Pandiyarajan</h1>
+<h3 >💻 MERN Stack Developer | 🎨 UI/UX Designer | 🚀 Tech Explorer</h3>
 
 ---
 
