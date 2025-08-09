@@ -1,20 +1,12 @@
-# 👋 Hi, I'm Subha Pandiyarajan  
-*MERN Stack Developer • UI/UX Enthusiast • Lifelong Learner*  
+### 👋 Hey there! I'm Subha — a creative technologits who codes and designs ✨
 
-🚀 I’m passionate about building **scalable web apps**, creating **intuitive designs**, and learning new technologies to solve real-world problems.  
-
----
-
-## 💡 About Me
-- 📍 Based in **Dindigul, Tamil Nadu**
-- 🌱 Currently exploring **MERN stack** and **modern UI frameworks**
-- 🛠️ Interested in **API development**, **data visualization**, and **cloud integrations**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Figma**
+🔧 I'm a *MERN Stack Developer* by logic,  
+🎨 A *UI/UX Designer* by heart,  
+🚀 And a lifelong learner by nature.
 
 ---
 
-## 🛠 Tech Stack
-
+#### 🛠 Tech & Tools I Use
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
@@ -33,35 +25,25 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Google Gemini App** | React app integrating Gemini AI API for smart interactions. | React, Gemini API | [🔗 View](#) |
-| **MERN Auth System** | Secure login/signup with JWT, bcrypt, and cookies. | MERN Stack | [🔗 View](#) |
-| **Excel Analytical Platform** | Upload & analyze Excel files directly in the browser. | React, Node.js, XLSX.js | [🔗 View](#) |
+#### 💡 What I Love Building
+- ⚙ Mern-stack web apps that actually solve problems  
+- 🎯 Interfaces that users love and remember  
+- 📊 Dashboards, analytics, and responsive UI components
 
 ---
 
-## 📊 GitHub Stats
-
-![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subha-P-coder&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-P-coder&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Subha-P-coder&theme=tokyonight&no-frame=true&row=1)
+#### 🌱 Currently Working On
+- CRUD in JS
+- Learning Type Script
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](#)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](#)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=firefox&logoColor=fff)](#)  
+#### 📫 Let’s Connect!
+- 🌐 [Portfolio] )
+- 💼 [LinkedIn](https://www.linkedin.com/in/subha-p-871113288/)
+- 🐦 [Twitter](https://x.com/SubhaP23)
+- 🐦 [instagram](https://www.instagram.com/subhapandiyarajan?igsh=bDdncTlqbXpjZHMy)
 
 ---
 
-> 💬 “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
