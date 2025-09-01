@@ -5,8 +5,8 @@
 
 ## ✨ About Me  
 💡 A **Creative Technologist** who blends logic with design.  
-🌱 Currently working on a **Resume Builder (MERN)** project.  
-⚡ Passionate about creating **impactful, functional & beautiful** web apps.  
+🌱 Currently building a **Resume Builder (MERN)**.  
+⚡ Love crafting **functional, beautiful & impactful** web apps.  
 
 ---
 
@@ -15,8 +15,8 @@
 ### **Frontend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,angular" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" />
-  <img height="40" src="https://img.icons8.com/color/48/ajax.png" alt="AJAX" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery"/>
+  <img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-ajax-coding-and-development-flat-flat-juicy-fish.png" alt="AJAX" title="AJAX"/>
 </p>
 
 ### **Backend**
@@ -33,17 +33,17 @@
 
 ## 🚀 What I Build  
 - 🌐 Full-stack **MERN** Applications  
-- 🎯 Pixel-perfect, responsive **UI/UX**  
-- 📊 Dashboards & Data-driven Apps  
+- 🎯 Responsive, pixel-perfect **UI/UX**  
+- 📊 Data-driven dashboards & analytics  
 
 ---
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="https://subhaportfolio.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30"/></a>
-  <a href="https://www.linkedin.com/in/subha-p-871113288/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://x.com/SubhaP23" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-  <a href="https://www.instagram.com/subhapandiyarajan" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://subhaportfolio.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/domain.png" height="30" title="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/subha-p-871113288/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" title="LinkedIn"/></a>
+  <a href="https://x.com/SubhaP23" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" title="Twitter"/></a>
+  <a href="https://www.instagram.com/subhapandiyarajan" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" title="Instagram"/></a>
 </p>
 
 ---
