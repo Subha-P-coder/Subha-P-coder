@@ -5,7 +5,7 @@
 
 ### ✨ About Me
 💡 **Creative Technologist** blending logic & design.  
-🌱 Currently sharpening my **JavaScript** CRUD skills & learning **TypeScript**.  
+🌱 Currently doing my **Resume Builder mern Website**.  
 ⚡ Love building *functional*, *beautiful*, and *impactful* Websites.
 
 ---
@@ -14,7 +14,7 @@
 
 #### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,angular,tailwind,bootstrap,typescript,ajax,jquery" />
 </p>
 
 #### **Backend**
