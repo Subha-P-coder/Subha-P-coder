@@ -1,12 +1,12 @@
-<h1>👋 Hey, I'm Subha Pandiyarajan</h1>
-<h3>💻 MERN Stack Developer | 🎨 UI/UX Designer</h3>
+<h1 align="center">👋 Hey, I'm Subha Pandiyarajan</h1>
+<h3 align="center">💻 MERN Stack Developer | 🎨 UI/UX Designer</h3>
 
 ---
 
 ### ✨ About Me
 💡 **Creative Technologist** blending logic & design.  
 🌱 Currently building my **Resume Builder MERN Website**.  
-⚡ Passionate about creating *functional*, *beautiful*, and *impactful* apps.
+⚡ Love creating *functional*, *beautiful*, and *impactful* web apps.
 
 ---
 
@@ -15,8 +15,8 @@
 #### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js,angular,tailwind,bootstrap,typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery"/>
-  <img src="https://img.icons8.com/?size=512&id=62452&format=png" width="48" height="48" alt="AJAX"/>
+  <img src="https://img.shields.io/badge/AJAX-0080ff?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 #### **Backend**
@@ -34,7 +34,7 @@
 ### 🚀 What I Build
 - 🌐 Full-stack **MERN** apps  
 - 🎯 Pixel-perfect, responsive **UI/UX**  
-- 📊 Data-driven dashboards & analytics  
+- 📊 Data-driven dashboards & analytics
 
 ---
 
