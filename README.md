@@ -4,46 +4,46 @@
 ---
 
 ## ✨ About Me  
-💡 A **Creative Technologist** blending logic & design.  
-🌱 Currently building a **Resume Builder (MERN)** project.  
-⚡ Passionate about creating *functional*, *beautiful*, and *impactful* web apps.  
+💡 A **Creative Technologist** who blends logic with design.  
+🌱 Currently working on a **Resume Builder (MERN)** project.  
+⚡ Passionate about creating **impactful, functional & beautiful** web apps.  
 
 ---
 
 ## 🛠 Tech Stack  
 
-**Frontend**  
-<p>
+### **Frontend**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,angular" />
-  <img src="https://img.shields.io/badge/AJAX-0078D6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" />
+  <img height="40" src="https://img.icons8.com/color/48/ajax.png" alt="AJAX" />
 </p>
 
-**Backend**  
-<p>
+### **Backend**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Tools & Design**  
-<p>
+### **Tools & Design**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 🚀 What I Build  
-- 🌐 Full-stack **MERN apps**  
+- 🌐 Full-stack **MERN** Applications  
 - 🎯 Pixel-perfect, responsive **UI/UX**  
-- 📊 Data-driven dashboards & analytics  
+- 📊 Dashboards & Data-driven Apps  
 
 ---
 
 ## 📫 Connect With Me  
-<p>
-  <a href="https://subhaportfolio.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/subha-p-871113288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/SubhaP23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/subhapandiyarajan" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://subhaportfolio.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30"/></a>
+  <a href="https://www.linkedin.com/in/subha-p-871113288/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://x.com/SubhaP23" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+  <a href="https://www.instagram.com/subhapandiyarajan" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
 </p>
 
 ---
