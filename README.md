@@ -5,7 +5,7 @@
 
 ### ✨ About Me
 💡 **Creative Technologist** blending logic & design.  
-🌱 Currently building my **Resume Builder MERN Website**.  
+🌱 Currently learning **Python**.  
 ⚡ Love creating *functional*, *beautiful*, and *impactful* web apps.
 
 ---
