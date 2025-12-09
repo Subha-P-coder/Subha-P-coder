@@ -5,7 +5,7 @@
 
 ### ✨ About Me
 💡 **Creative Technologist** blending logic & design.  
-🌱 Currently learning **Python**.  
+🌱 Currently learning **Python** and upgrade myself.  
 ⚡ Love creating *functional*, *beautiful*, and *impactful* web apps.
 
 ---
